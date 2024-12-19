@@ -10,5 +10,6 @@ To try the application open several browser instances at the address:
 This demonstrates my ability with real-time concurrent users with the use of web sockets. 
 
 Additional instructions:
-        1 - To private chat -> you must enter the name of the user then type ":" right after it and then write your message.
-        2 - To group chat   -> likewise with the private chat but you must enter the names of the recievers seperated by " ,".
+
+    1 - To private chat -> you must enter the name of the user then type ":" right after it and then write your message.
+    2 - To group chat   -> likewise with the private chat but you must enter the names of the recievers seperated by " ,".
