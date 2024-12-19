@@ -6,9 +6,9 @@ Then run:
 
     > node server.js
 
-To try the application open several browser instances at the address:
+Try to open the application to several browser instances at the address of:
 
-	http://localhost:3000/chatClient.html
+	> http://localhost:3000/chatClient.html
 
 Additional instructions:
 
