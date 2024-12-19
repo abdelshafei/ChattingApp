@@ -1,11 +1,11 @@
 To run first install the dependencies in package.json by executing:
-  > npm install
+    > npm install
 
 Then run:
-  > node server.js
+    > node server.js
 
 To try the application open several browser instances at the address:
-  http://localhost:3000/chatClient.html
+    ```http://localhost:3000/chatClient.html```
 
 This demonstrates my ability with real-time concurrent users with the use of web sockets and such. 
 
